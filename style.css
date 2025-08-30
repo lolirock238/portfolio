@@ -10,7 +10,7 @@ body {
 header {
     color: lightskyblue;
     background: white;
-    padding: 2rem 0;
+    padding: 2rem;
     text-align: center;
     font-size: 2.5rem;
     font-weight: bold;
@@ -45,7 +45,6 @@ li {
 a {
     color: lightcoral;
     text-decoration: underline;
-    transition: color 0.2s;
 }
 
 a:hover {
