@@ -1,0 +1,86 @@
+/* General styles */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: beige;
+    color:black;
+}
+
+header {
+    color: lightskyblue;
+    background: white;
+    padding: 2rem 0;
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: bold;
+    letter-spacing: 2px;
+    
+}
+
+div {
+    max-width: 800px;
+    margin: 2rem auto;
+    background:white;
+    padding: 2rem;
+    border-radius: 10px;
+    
+}
+
+h1 {
+    color: lightseagreen;
+    margin-bottom: 1rem;
+    font-size: 2rem;
+}
+
+ul {
+    padding-left: 1.5rem;
+}
+
+li {
+    margin-bottom: 0.5rem;
+    font-size: 1.1rem;
+}
+
+a {
+    color: lightcoral;
+    text-decoration: underline;
+    transition: color 0.2s;
+}
+
+a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+
+img {
+    max-width: 200px;
+    height: auto;
+    border-radius: 20%;
+    margin: 2rem ;
+    
+}
+
+/* Section specific styles */
+#Home {
+    border-left: 6px solid blue;
+}
+
+.About {
+    border-left: 6px solid red;
+}
+
+#Skills {
+    border-left: 6px solid yellow;
+}
+
+.Projects {
+    border-left: 6px solid lightgreen;
+}
+
+#Contact {
+    border-left: 6px solid purple;
+}
+
+
+       
