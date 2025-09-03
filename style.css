@@ -59,6 +59,12 @@ img {
     margin: 2rem ;
     
 }
+button{
+    background-color: darkblue;
+    color: white;
+    border: 30px;
+    font-size: larger;
+}
 
 /* Section specific styles */
 #Home {
